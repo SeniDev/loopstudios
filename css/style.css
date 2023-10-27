@@ -174,3 +174,7 @@ footer{
     gap: 1.2em;
     color: white;
 }
+
+.links-content a{
+    color: white;
+}
