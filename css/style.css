@@ -148,47 +148,4 @@ a{
     color: #fff;
 }
 
-.footer-content{
-    display:flex;
-    justify-content: space-between;
-}
-
-.logo{
-    font-size:24px;
-}
-
-.social-media{
-    display:flex;
-}
-
-
-.social-icon{
-    display: flex;
-}
-
-.icon{
-    margin:0 10px;
-    font-size: 24px;
-    color: white;
-}
-
-
-.links{
-    display:block;
-    justify-content: space-between;
-}
-
-.links-content{
-    display:block;
-}
-
-.links-content a{
-    color: #fff;
-}
-
-.copyright{
-
-}
-
-
 
