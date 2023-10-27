@@ -146,8 +146,8 @@ a{
 .py-5{
     background-color: #000;
     color: #fff;
-    margin-left: 3em;
-    margin-right: 3em;
+    padding-left: 3em;
+    padding-right: 3em;
 }
 
 .footer-content {
