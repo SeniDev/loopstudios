@@ -146,6 +146,8 @@ a{
 .py-5{
     background-color: #000;
     color: #fff;
+    margin-left: 3em;
+    margin-right: 3em;
 }
 
 .footer-content {
@@ -153,3 +155,7 @@ a{
     justify-content: space-between;
 }
 
+.social-icon {
+    display: flex;
+    gap: 1.2em;
+}
