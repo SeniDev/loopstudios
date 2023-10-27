@@ -163,3 +163,7 @@ footer{
     display: flex;
     gap: 1.2em;
 }
+.links {
+    display: flex;
+    justify-content: space-between;
+}
